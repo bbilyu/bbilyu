@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, I'm Ilya Beloglazov :sunny:
 
-<!--
-**bbilyu/bbilyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm beginner python developer!
 
-Here are some ideas to get you started:
+I'm interested in web and games development, software applications :rocket:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like
+- Crypto trading :chart_with_upwards_trend:
+- Investing :dollar:
+- Traveling :airplane:
+
+and coding of course :computer:
+
+### You can contact me:
+[<img align="left" alt="instagram" width="26px" src="https://img.icons8.com/clouds/2x/instagram-new--v3.png" ][instagram]
+[<img align="left" alt="instagram" width="26px" src="https://img.icons8.com/clouds/2x/telegram-app.png" ][telegram]
+[instagram]: https://www.instagram.com/keepcalmaboss/
+[telegram]: https://t.me/keepcalmaboss
