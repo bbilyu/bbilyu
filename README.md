@@ -11,8 +11,14 @@ I like
 
 and coding of course :computer:
 
+<br />
+<br />
+<br />
+
 ### You can contact me:
+
 [<img align="left" alt="instagram" width="26px" src="https://img.icons8.com/clouds/2x/instagram-new--v3.png" />][instagram]
 [<img align="left" alt="itelegram" width="26px" src="https://img.icons8.com/clouds/2x/telegram-app.png" />][telegram]
+
 [instagram]: https://www.instagram.com/keepcalmaboss/
 [telegram]: https://t.me/keepcalmaboss
