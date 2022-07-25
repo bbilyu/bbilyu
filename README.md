@@ -13,8 +13,8 @@ and coding of course :computer:
 
 ## You can contact me:
 
-[<img align="left" alt="instagram" width="40px" src="https://img.icons8.com/clouds/2x/instagram-new--v3.png" />][instagram]
-[<img align="left" alt="itelegram" width="40px" src="https://img.icons8.com/clouds/2x/telegram-app.png" />][telegram]
+[<img align="left" alt="instagram" width="50px" src="https://img.icons8.com/clouds/2x/instagram-new--v3.png" />][instagram]
+[<img align="left" alt="itelegram" width="50px" src="https://img.icons8.com/clouds/2x/telegram-app.png" />][telegram]
 
 [instagram]: https://www.instagram.com/keepcalmaboss/
 [telegram]: https://t.me/keepcalmaboss
