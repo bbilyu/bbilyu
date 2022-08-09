@@ -2,7 +2,7 @@
 
 ### I'm beginner python developer!
 
-I'm interested in web and games development, software applications :rocket:
+I'm interested in crypto, web and games development, software applications :rocket:
 
 I like
 - Crypto trading :chart_with_upwards_trend:
