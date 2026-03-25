@@ -11,7 +11,6 @@ I work with a modern Python stack and enjoy bringing projects to a state where t
 - Backend development  
 - Web services & APIs  
 - Crypto & fintech  
-- Game development  
 - Software architecture  
 
 ---
