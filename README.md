@@ -1,15 +1,20 @@
-## Hello, I'm Ilya Beloglazov :sunny:
+# 👋 Hello, I'm **Ilya Beloglazov**
 
-### I'm beginner python developer!
+### 🧑‍💻 **Python Developer**
 
-I'm interested in crypto, web and games development, software applications :rocket:
+I build reliable backend solutions, automate processes, and create scalable services.  
+I work with a modern Python stack and enjoy bringing projects to a state where they run fast, stable, and predictably.
 
-I like
-- Crypto trading :chart_with_upwards_trend:
-- Investing :dollar:
-- Traveling :airplane:
+---
 
-and coding of course :computer:
+## 🚀 Areas of Interest
+- Backend development  
+- Web services & APIs  
+- Crypto & fintech  
+- Game development  
+- Software architecture  
+
+---
 
 ## You can contact me:
 
